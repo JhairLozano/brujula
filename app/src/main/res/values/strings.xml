@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brujula</string>
+
+    <string name="cardinal_north">Norte</string>
+    <string name="cardinal_east">Este</string>
+    <string name="cardinal_south">Sur</string>
+    <string name="cardinal_west">Oeste</string>
+</resources>
